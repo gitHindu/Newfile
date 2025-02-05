@@ -81,6 +81,14 @@ h2 {
         padding: 21px;
         border-radius: 10px;
     }
+ .typewriter {
+    font-family: monospace;
+    white-space: nowrap;
+    
+    border-right: 0px solid;
+    width: 0;
+    animation:none;
+  }
   }
   /*project */
   .one_button{
