@@ -1,0 +1,30 @@
+.Navbar_css ul {
+    display: flex;
+    gap: 20px;
+    justify-content: flex-end;
+    margin: 0;
+}
+
+.Navbar_css ul li {
+    list-style: none;
+}
+
+.Navbar_css ul a {
+    text-decoration: none;
+    color: #fff;
+}
+.Navbar_css ul a:hover {
+ 
+    color: #fff;
+}
+
+.Navbar_css {
+    background: #171d33;
+}
+.logo span {
+    font-size:26px;
+    font-weight: 500;
+}
+.active {
+    color:red;
+}

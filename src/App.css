@@ -1,0 +1,115 @@
+
+
+h2 {
+    font-size:50px;
+    font-weight:600 ;
+  
+  }
+  h4{
+    font-size: 28px;
+  }
+  p {
+    font-size: 18px;
+    font-weight: 400;
+  
+  }
+  .icon-bg-color{
+  
+    background: #000;
+    padding: 12px;
+    border-radius: 10px;
+  
+  }
+  .display-icon{
+    display: flex; 
+    gap:20px;
+  }
+  .bg-color {
+    background: #171d33;
+  }
+  .bg-color-outside {
+    background: #111423;
+    border-radius: 15px;
+  }
+  .side_gap{
+    display: grid;
+      justify-content: center;
+  }
+  .my-btn.btn.btn-primary {
+    padding: 10px 35px;
+    border-radius: 40px;
+    background: #455792;
+  
+    border: #455792;
+    margin-top: 17px;
+  }
+  
+  .typewriter {
+    font-family: monospace;
+    white-space: nowrap;
+    overflow: hidden;
+    border-right: 3px solid;
+    width: 0;
+    animation: typing 3s steps(7, end) forwards, blink-caret 0.75s step-end infinite;
+  }
+  
+  /* Typewriter effect */
+  @keyframes typing {
+    from { width: 0; }
+    to { width: 80%; }
+  }
+  
+  /* Blinking caret effect */
+  @keyframes blink-caret {
+    from, to { border-color: transparent; }
+    50% { border-color: white; }
+  }
+  
+  
+  
+  /*expri*/
+  .card-my{
+    width: 471px;
+      background: #111423;
+      padding: 21px;
+      border-radius: 10px;
+  }
+  @media only screen and (min-device-width : 300px) and (max-device-width : 991px) {
+    .card-my{
+      width:100%;
+        background: #111423;
+        padding: 21px;
+        border-radius: 10px;
+    }
+  }
+  /*project */
+  .one_button{
+    display: flex;
+    gap: 13px;
+  }
+  /*contact */
+  ul {
+    list-style-type: none;
+    margin-top: 18px;
+  }
+  
+  .one_line {
+    display: flex;
+    gap: 20px;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .logo-color {
+    background: #111423;
+    padding: 9px;
+    width: 52px;
+    border-radius: 100px;
+  }
+  ul li {
+    font-size: 20px;
+  }
+  .anchor{
+    text-decoration: none;
+  }
