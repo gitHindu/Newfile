@@ -28,7 +28,7 @@ const Home = () => {
     </div>
     <div className="col-md-6">
       <img className="bg-img-height"
-        src="./public/woman.png"
+        src="/public/woman.png"
         alt="Woman with Laptop"
         width="100%"
       />
@@ -42,7 +42,7 @@ const Home = () => {
     <div className="col-md-5">
     
     <img className="bg-img-height"
-    src="./public/relaxing.png"
+    src="/public/relaxing.png"
     alt="Woman with Laptop"
     width="100%"
   />  
@@ -51,7 +51,7 @@ const Home = () => {
     <div className="col-md-7">
     <div className="row container-fluid d-flex  justify-content-between ">
     <div className="col-md-1">
-    <img src="./public/next.png" width="30px"/>
+    <img src="/public/next.png" width="30px"/>
     </div>
     <div className="col-md-11">
     <p className="text-white">
@@ -63,7 +63,7 @@ const Home = () => {
      
     <div className="row container-fluid d-flex  justify-content-between ">
     <div className="col-md-1">
-    <img src="./public/next.png" width="30px"/>
+    <img src="/public/next.png" width="30px"/>
     </div>
     <div className="col-md-11">
     <p className="text-white">
@@ -74,7 +74,7 @@ const Home = () => {
     </div>
     <div className="row container-fluid d-flex  justify-content-between ">
     <div className="col-md-1">
-    <img src="./public/next.png" width="30px"/>
+    <img src="/public/next.png" width="30px"/>
     </div>
     <div className="col-md-11">
     <p className="text-white">
@@ -105,21 +105,21 @@ const Home = () => {
 
    <div className="display-icon ">
    <div className="icon-bg-color mt-5">
-   <img src="./public/html.png" width="35px" />
+   <img src="/public/html.png" width="35px" />
    </div>
    <div className="icon-bg-color mt-5">
-   <img src="./public/css.png" width="35px" />
+   <img src="/public/css.png" width="35px" />
    </div>
    <div className="icon-bg-color mt-5">
-   <img src="./public/boot.png" width="35px" />
+   <img src="/public/boot.png" width="35px" />
    </div>
    </div>
    <div className="display-icon">
    <div className="icon-bg-color mt-5">
-   <img src="./public/j.s.png" width="35px" />
+   <img src="/public/j.s.png" width="35px" />
    </div>
    <div className="icon-bg-color mt-5">
-   <img src="./public/react.png" width="35px" />
+   <img src="/public/react.png" width="35px" />
    </div>
   
    </div>
@@ -128,7 +128,7 @@ const Home = () => {
   
   <div className="row card-my">
   <div className="col-md-3">
-  <img src="./public/company.png" width="100px"/>
+  <img src="/public/company.png" width="100px"/>
   </div>
   <div className="col-md-9">
    <h5 className="text-white">Software Enginner,Finbot</h5>
@@ -150,7 +150,7 @@ const Home = () => {
 
 
    <div className="p-4 bg-color-outside">
-     <img src="./public/finbot.png" width="100% " />
+     <img src="/public/finbot.png" width="100% " />
 
      <h4 className="text-white mt-3 ">Finbot</h4>
      <p className="text-white mt-2">At finbot we provide innovative financial solutions that streamline healthcare operations, reduce administrative burdens, and ensure better financial outcomes, allowing healthcare providers to focus on what matters most—patient care.</p>
@@ -171,7 +171,7 @@ const Home = () => {
 
 
   <div className="p-4 bg-color-outside">
-    <img src="./public/zapstock.png" width="100% " height="174px"  />
+    <img src="/public/zapstock.png" width="100% " height="174px"  />
 
     <h4 className="text-white mt-3 ">Zapstock</h4>
     <p className="text-white mt-2"> Zapstock offers cutting-edge tools for analyzing options data, delivering real-time insights that empower investors and traders to make informed decisions and stay ahead of market trends.With advanced analytics and customizable dashboards.</p>
@@ -191,7 +191,7 @@ const Home = () => {
 
 
  <div className="p-4 bg-color-outside">
-   <img src="./public/krishna.png" width="100% " height="174px" />
+   <img src="/public/krishna.png" width="100% " height="174px" />
 
    <h4 className="text-white mt-3 ">Biomed</h4>
    <p className="text-white mt-2">We offer a wide range of diagnostic and research products, with Weldon Biotech leading the market with 15+ years of innovation. Our expertise spans sales, marketing, and support for diagnostic reagents and instruments.</p>
@@ -228,13 +228,13 @@ const Home = () => {
  </div>
  <div className='col-md-4 one_line'>
   <div >
-  <a href="https://www.naukri.com/mnjuser/profile?id=&altresid"><img className='logo-color' src="./public/naukri.png" width="30px"/></a> 
+  <a href="https://www.naukri.com/mnjuser/profile?id=&altresid"><img className='logo-color' src="/public/naukri.png" width="30px"/></a> 
   </div>
   <div>
-  <a href="https://www.linkedin.com/in/hindu-kalthireddy-88b6b5239/"><img className='logo-color' src="./public/linkedin (3).png" width="30px"/></a>
+  <a href="https://www.linkedin.com/in/hindu-kalthireddy-88b6b5239/"><img className='logo-color' src="/public/linkedin (3).png" width="30px"/></a>
  </div>
  <div >
- <a href="https://profile.indeed.com/?hl=en_IN&co=IN&from=gnav-homepage"><img className='logo-color' src="./public/inneed.png" width="30px"/></a>
+ <a href="https://profile.indeed.com/?hl=en_IN&co=IN&from=gnav-homepage"><img className='logo-color' src="/public/inneed.png" width="30px"/></a>
 </div>
  </div>
 
