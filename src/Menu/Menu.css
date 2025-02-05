@@ -5,6 +5,11 @@
     margin: 0;
 }
 
+.navbar-brand {
+    font-size: 32px;
+    font-weight: 600;
+}
+
 .Navbar_css ul li {
     list-style: none;
 }
