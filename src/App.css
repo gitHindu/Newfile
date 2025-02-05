@@ -28,9 +28,12 @@ h2 {
     background: #171d33;
   }
   .bg-color-outside {
+   padding:50px;
     background: #111423;
     border-radius: 15px;
   }
+.bg-color-outside h2{
+padding:50px;}
   .side_gap{
     display: grid;
       justify-content: center;
@@ -86,8 +89,24 @@ h2 {
     white-space: nowrap;
     
     border-right: 0px solid;
-    width: 0;
+    width: 100%;
     animation:none;
+  }
+.bg-color-outside {
+    padding: 0px;
+}
+.bg-color-outside h2{
+padding:10px;}
+  
+.new-section {
+    padding: 10px;
+}
+ul li {
+    font-size: 15px;
+}
+
+  .one_button{
+    display: block;
   }
   }
   /*project */
