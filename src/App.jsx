@@ -3,10 +3,10 @@ import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 import Menu from './Menu/Menu';
 import { Routes, Route } from "react-router-dom";
 import About from './rounting/About';
-import Home from './Rounting/Home';
-import Project from './Rounting/Project';
+import Home from './rounting/Home';
+import Project from './rounting/Project';
 import Expriences from './rounting/Expriences';
-import Contact from './Rounting/Contact';
+import Contact from './rounting/Contact';
 import Demo from './rounting/Demo';
 import DemoPage from './rounting/Demopage';
 
