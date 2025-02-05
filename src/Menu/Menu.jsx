@@ -9,7 +9,7 @@ const Menu = () => {
     <div className="container-fluid Navbar_css p-4 px-5 d-flex justify-content-between align-items-center">
       {/* Logo Section */}
       <div className="logo">
-      <a className="navbar-brand font-bold text-white" href="/"><h6>Portfolio</h6></a> 
+      <a className="navbar-brand font-bold text-white" href="/">Portfolio</a> 
       </div>
       <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span className="navbar-toggler-icon"></span> {/* Toggler icon for mobile screens */}
